@@ -1,0 +1,13 @@
+D:\LTTQ\test2\bin\Debug\netcoreapp3.1\test2.exe
+D:\LTTQ\test2\bin\Debug\netcoreapp3.1\test2.deps.json
+D:\LTTQ\test2\bin\Debug\netcoreapp3.1\test2.runtimeconfig.json
+D:\LTTQ\test2\bin\Debug\netcoreapp3.1\test2.runtimeconfig.dev.json
+D:\LTTQ\test2\bin\Debug\netcoreapp3.1\test2.dll
+D:\LTTQ\test2\bin\Debug\netcoreapp3.1\test2.pdb
+D:\LTTQ\test2\obj\Debug\netcoreapp3.1\test2.csprojAssemblyReference.cache
+D:\LTTQ\test2\obj\Debug\netcoreapp3.1\test2.AssemblyInfoInputs.cache
+D:\LTTQ\test2\obj\Debug\netcoreapp3.1\test2.AssemblyInfo.cs
+D:\LTTQ\test2\obj\Debug\netcoreapp3.1\test2.csproj.CoreCompileInputs.cache
+D:\LTTQ\test2\obj\Debug\netcoreapp3.1\test2.dll
+D:\LTTQ\test2\obj\Debug\netcoreapp3.1\test2.pdb
+D:\LTTQ\test2\obj\Debug\netcoreapp3.1\test2.genruntimeconfig.cache
